@@ -1,0 +1,26 @@
+body {
+  padding: 2em 0 0 2em;
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+#quote-box {
+  margin: auto;
+}
+
+#text {
+  font-size: 4em;
+}
+
+#author {
+  /* margin-top: 1em; */
+  font-size: 3em;
+  text-align: right;
+}
+
+#buttons {
+  position: absolute;
+  bottom: 1em;
+}
