@@ -1,5 +1,5 @@
 body {
-  padding: 2em 0 0 2em;
+  padding: 2rem 0 0 2rem;
 }
 
 .jumbotron {
@@ -11,16 +11,16 @@ body {
 }
 
 #text {
-  font-size: 4em;
+  font-size: 4rem;
 }
 
 #author {
   /* margin-top: 1em; */
-  font-size: 3em;
+  font-size: 3rem;
   text-align: right;
 }
 
 #buttons {
   position: absolute;
-  bottom: 1em;
+  bottom: 1rem;
 }
